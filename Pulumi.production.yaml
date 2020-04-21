@@ -1,0 +1,4 @@
+config:
+  aws:region: eu-west-2
+  continuous-cdn:domain: marcus.codes
+  continuous-cdn:certificateArn: arn:aws:acm:us-east-1:818504174780:certificate/8cf117af-2c6f-47b6-bdc9-824e4bc2d9d6
